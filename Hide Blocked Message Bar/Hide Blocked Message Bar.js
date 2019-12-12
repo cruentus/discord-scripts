@@ -3,7 +3,9 @@
 // Discord Script by Stephen Chapman
 // GitHub: http://github.com/dsasmblr
 // Blog: http://dsasmblr.com/blog
-//
+// Edited :Rick Kayo
+// 12/11/2019
+// Modified script to correctly select for newer discord.
 -------------------------------------*/
 
 // Description: This script hides the "blocked message" div.
